@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ExtractExcelFileName", "ExtractExcelFileName.dtproj", "{A484E041-DC9A-4CE4-AD96-905E6E139D8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A484E041-DC9A-4CE4-AD96-905E6E139D8A}.Development|Default.ActiveCfg = Development
+		{A484E041-DC9A-4CE4-AD96-905E6E139D8A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D96D7AC-9A28-4002-82CD-D44DAD893A08}
+	EndGlobalSection
+EndGlobal
